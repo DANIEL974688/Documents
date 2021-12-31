@@ -1,0 +1,17 @@
+{
+  "name": "backend-p6",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+        "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.4",
+    "mongoose-unique-validator": "^3.0.0"
+  },
+  "description": ""
+}
